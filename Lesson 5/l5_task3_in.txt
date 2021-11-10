@@ -1,0 +1,9 @@
+Ivanov 30000
+Aleksandrov 9000
+Eremin 15000
+Sergeev 45000
+Petrov 19000
+Pavlov 55000
+Miheev 19000
+Zorin 12000
+Levin 21000
